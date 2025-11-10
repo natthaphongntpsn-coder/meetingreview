@@ -1,0 +1,5 @@
+{
+  "name": "Thai School Report Form Generator",
+  "description": "A web application to generate official school reports for meetings, training, and seminars. It features a live preview and allows exporting the final report as a PDF with full Thai language support.",
+  "requestFramePermissions": []
+}
